@@ -1,5 +1,5 @@
 # aamas
 for paper reviewing only  
-The NS trader is at ./agent/market_makers/NHPBackgroundTrader  
+The NS trader trading logic is at ./agent/market_makers/NHPBackgroundTrader  
 Other agents is at ./agent  
-Configurations are defined at ./ns_abm  
+Configurations (including both oracle and agents) are defined at ./ns_abm  
